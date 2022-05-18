@@ -1,16 +1,25 @@
-### Hi there 👋
+### 🤖 About Me   
 
-<!--
-**BrianMayMC/BrianMayMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I currently code in **Java**, **C#**, **JavaScript**, **HTML** and **CSS**
+- I am currently going for masters in Software Engineering.
+- Most of my programs are closed source, due to privacy reasons.
+- I currently own the Development Team **[Avalon Development]**(https://avalondev.net "Avalon Development)**
 
-Here are some ideas to get you started:
+------------
+### 📫 Contact Info
+- 📘 **Discord**: noot noot#0215
+- 🎫 **E-Mail**: BrianMayMC@gmail.com
+ 
+------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Current Work
+- I currently own the Development Team **[Avalon Development]**(https://avalondev.net "Avalon Development)**
+- I am currently Developer for JackpotMC & VentedMC & UnnamedNetwork
+
+------------
+
+**Am I looking for work?** 
+- Yes
+- I am looking for a developer position on minecraft servers!
+
+------------
